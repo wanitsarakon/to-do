@@ -7,9 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "lock-files": "powershell -ExecutionPolicy Bypass -File scripts\\lock-files.ps1",
-    "unlock-files": "powershell -ExecutionPolicy Bypass -File scripts\\unlock-files.ps1"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.2.6",
